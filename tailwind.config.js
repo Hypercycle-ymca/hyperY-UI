@@ -10,7 +10,7 @@ export default {
         sm: { max: '490px' },
       },
       colors: {
-        primary: '#FF0000',
+        primary: '#00FF00',
         'primary-soft': '#E94235',
         dark: '#cc0000',
         light: '#ffd9d9',
